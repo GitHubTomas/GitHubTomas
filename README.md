@@ -1,5 +1,6 @@
 <h1>Hi, I'm Tomas!</h1>
-
+<h2>Networks and Cybersecurity</h2>
+</br>
 <h2>👨‍💻 Ongoing Software Development Projects:</h2>
 
 - <b>Custom Password generator</b>
