@@ -4,6 +4,7 @@
 <h2>👨‍💻 Ongoing Software Development Projects:</h2>
 
 - <b>Custom Password generator</b>
+- <b>Boardgame website</b>
 - <b>Stay tuned for more...
   
 <h2> 🤳 Connect with me:</h2>
